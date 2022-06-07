@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: auto;
+  height: 6rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5rem;
+}
+
+.rechercher {
+  border: solid 2px red;
+  height: 4rem;
+  width: 100%;
+  margin-top: 2rem;
+}
+.rechercher__barre {
+  border: solid 2px blue;
+  background: #E7E7E7;
+  width: 80%;
+  height: 3rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}/*# sourceMappingURL=style.css.map */
